@@ -5,7 +5,7 @@ scientific and clinical discovery for treating pain and opioid use disorders. Th
 data management and sharing strategy through coordination of two primary tools and two support teams. The tools include the HEAL Data Platform and HEAL Semantic Search, and the support teams include the
 HEAL Data Stewardship Group and HEAL Data Platform team.
 
-This GitHub organization is used by the HEAL Data Stewardship Group to store source code that is 
+This GitHub organization is used by the HEAL Data Stewardship Group to store source code for a variety of data transformation and publication needs.
 
 <!--
 
